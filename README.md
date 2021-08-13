@@ -248,6 +248,8 @@ This is a curated list about tools for everything from productivity to hosting t
 - DrawKit - https://www.drawkit.io/
 - Excalidraw - https://excalidraw.com/
 - Icons8 - https://icons8.com/
+- 3D Bay - https://clouddevs.com/3dbay/
+
 
 ### Online Logo:
 - Shopify Logo Maker - https://www.shopify.com/tools/logo-maker
